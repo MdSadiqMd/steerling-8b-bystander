@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Harmful prompts (downloaded at run time) and raw generations never go in git.
+.cache/
+results/raw/

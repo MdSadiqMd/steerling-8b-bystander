@@ -1,0 +1,24 @@
+[project]
+name = "steerling-bystanders"
+version = "0.1.0"
+requires-python = ">=3.13,<3.14"
+dependencies = [
+    "auditkit>=1.1.12",
+    "huggingface-hub",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "pyarrow",
+]
+
+[project.optional-dependencies]
+# Inference only; Steerling pins torch 2.8 + triton, which need Linux + CUDA 12.8.
+gpu = ["steerling==0.2.0; sys_platform == 'linux'", "torch==2.8.0; sys_platform == 'linux'"]
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu128", marker = "sys_platform == 'linux'" }
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true
