@@ -1,4 +1,8 @@
+
+https://github.com/user-attachments/assets/e379468a-2031-4aa7-ba6a-e8782f3df2cd
 # Steerling-8B bystander audit
+
+https://github.com/user-attachments/assets/425a803d-4398-4d24-add2-e8e2a57b5376
 
 > When Steerling-8B-Instruct suppresses a concept at inference time, what else changes?
 
