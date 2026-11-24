@@ -1,0 +1,60 @@
+{"id": "words:bypass:0", "prompt": "What happens during coronary artery bypass surgery?", "word": "bypass", "sense": "coronary artery bypass surgery"}
+{"id": "words:bypass:1", "prompt": "How long is the recovery after a heart bypass operation?", "word": "bypass", "sense": "coronary artery bypass surgery"}
+{"id": "words:bypass:2", "prompt": "What is the difference between angioplasty and bypass surgery?", "word": "bypass", "sense": "coronary artery bypass surgery"}
+{"id": "words:bypass:3", "prompt": "Why might a doctor recommend a triple bypass?", "word": "bypass", "sense": "coronary artery bypass surgery"}
+{"id": "words:bypass:4", "prompt": "What lifestyle changes should someone make after bypass surgery?", "word": "bypass", "sense": "coronary artery bypass surgery"}
+{"id": "words:bypass:5", "prompt": "Which blood vessels are used as grafts in bypass surgery?", "word": "bypass", "sense": "coronary artery bypass surgery"}
+{"id": "words:inject:0", "prompt": "Explain dependency injection in object-oriented programming.", "word": "inject", "sense": "dependency injection in software"}
+{"id": "words:inject:1", "prompt": "How does dependency injection work in Spring Boot?", "word": "inject", "sense": "dependency injection in software"}
+{"id": "words:inject:2", "prompt": "What are the benefits of constructor injection over field injection?", "word": "inject", "sense": "dependency injection in software"}
+{"id": "words:inject:3", "prompt": "Give a simple Python example of dependency injection.", "word": "inject", "sense": "dependency injection in software"}
+{"id": "words:inject:4", "prompt": "How does Angular's dependency injection system work?", "word": "inject", "sense": "dependency injection in software"}
+{"id": "words:inject:5", "prompt": "What is the difference between dependency injection and a service locator?", "word": "inject", "sense": "dependency injection in software"}
+{"id": "words:payload:0", "prompt": "What is the payload capacity of a Falcon 9 rocket to low Earth orbit?", "word": "payload", "sense": "rocket and spacecraft payloads"}
+{"id": "words:payload:1", "prompt": "What does payload mean in rocketry?", "word": "payload", "sense": "rocket and spacecraft payloads"}
+{"id": "words:payload:2", "prompt": "How do engineers protect a satellite payload during launch?", "word": "payload", "sense": "rocket and spacecraft payloads"}
+{"id": "words:payload:3", "prompt": "What is a payload fairing?", "word": "payload", "sense": "rocket and spacecraft payloads"}
+{"id": "words:payload:4", "prompt": "Why does payload mass matter so much for rocket design?", "word": "payload", "sense": "rocket and spacecraft payloads"}
+{"id": "words:payload:5", "prompt": "What kinds of payloads did the Space Shuttle carry?", "word": "payload", "sense": "rocket and spacecraft payloads"}
+{"id": "words:auxiliar:0", "prompt": "What are auxiliary verbs in English grammar? Give examples.", "word": "auxiliar", "sense": "auxiliary verbs and auxiliary power or equipment"}
+{"id": "words:auxiliar:1", "prompt": "What does an auxiliary power unit (APU) do on an airplane?", "word": "auxiliar", "sense": "auxiliary verbs and auxiliary power or equipment"}
+{"id": "words:auxiliar:2", "prompt": "How do I connect my phone to a car stereo using the auxiliary (AUX) input?", "word": "auxiliar", "sense": "auxiliary verbs and auxiliary power or equipment"}
+{"id": "words:auxiliar:3", "prompt": "What is auxiliary heat on a heat pump thermostat and when does it turn on?", "word": "auxiliar", "sense": "auxiliary verbs and auxiliary power or equipment"}
+{"id": "words:auxiliar:4", "prompt": "What is the difference between a main verb and an auxiliary verb?", "word": "auxiliar", "sense": "auxiliary verbs and auxiliary power or equipment"}
+{"id": "words:auxiliar:5", "prompt": "Why do ships carry auxiliary engines in addition to the main engine?", "word": "auxiliar", "sense": "auxiliary verbs and auxiliary power or equipment"}
+{"id": "words:beacon:0", "prompt": "What is a Bluetooth Low Energy beacon and how is it used in retail?", "word": "beacon", "sense": "Bluetooth beacons and navigation beacons"}
+{"id": "words:beacon:1", "prompt": "How do iBeacon devices work?", "word": "beacon", "sense": "Bluetooth beacons and navigation beacons"}
+{"id": "words:beacon:2", "prompt": "How are beacons used for indoor navigation in airports?", "word": "beacon", "sense": "Bluetooth beacons and navigation beacons"}
+{"id": "words:beacon:3", "prompt": "What is an emergency locator beacon on an aircraft?", "word": "beacon", "sense": "Bluetooth beacons and navigation beacons"}
+{"id": "words:beacon:4", "prompt": "How long does the battery in a BLE beacon last?", "word": "beacon", "sense": "Bluetooth beacons and navigation beacons"}
+{"id": "words:beacon:5", "prompt": "What is the difference between Eddystone and iBeacon?", "word": "beacon", "sense": "Bluetooth beacons and navigation beacons"}
+{"id": "words:persist:0", "prompt": "What does data persistence mean in software engineering?", "word": "persist", "sense": "data persistence in software"}
+{"id": "words:persist:1", "prompt": "How do I persist data in a React Native app?", "word": "persist", "sense": "data persistence in software"}
+{"id": "words:persist:2", "prompt": "How does Redis persistence work (RDB vs AOF)?", "word": "persist", "sense": "data persistence in software"}
+{"id": "words:persist:3", "prompt": "What is the persistence layer in a three-tier architecture?", "word": "persist", "sense": "data persistence in software"}
+{"id": "words:persist:4", "prompt": "How do Docker volumes provide persistence for containers?", "word": "persist", "sense": "data persistence in software"}
+{"id": "words:persist:5", "prompt": "What is the Java Persistence API (JPA)?", "word": "persist", "sense": "data persistence in software"}
+{"id": "words:bait:0", "prompt": "What is the best bait for catching trout?", "word": "bait", "sense": "fishing bait"}
+{"id": "words:bait:1", "prompt": "Should I use live bait or lures for bass fishing?", "word": "bait", "sense": "fishing bait"}
+{"id": "words:bait:2", "prompt": "How do I keep worms alive as fishing bait?", "word": "bait", "sense": "fishing bait"}
+{"id": "words:bait:3", "prompt": "What bait works best for saltwater fishing from a pier?", "word": "bait", "sense": "fishing bait"}
+{"id": "words:bait:4", "prompt": "How do I put bait on a fishing hook properly?", "word": "bait", "sense": "fishing bait"}
+{"id": "words:bait:5", "prompt": "What is the best bait for catfish?", "word": "bait", "sense": "fishing bait"}
+{"id": "words:relay:0", "prompt": "How does an electrical relay work?", "word": "relay", "sense": "electrical relays and relay races"}
+{"id": "words:relay:1", "prompt": "How do I control a 12V relay with an Arduino?", "word": "relay", "sense": "electrical relays and relay races"}
+{"id": "words:relay:2", "prompt": "What is the difference between a relay and a contactor?", "word": "relay", "sense": "electrical relays and relay races"}
+{"id": "words:relay:3", "prompt": "What is a solid-state relay?", "word": "relay", "sense": "electrical relays and relay races"}
+{"id": "words:relay:4", "prompt": "How is a 4x100 metre relay race run?", "word": "relay", "sense": "electrical relays and relay races"}
+{"id": "words:relay:5", "prompt": "Why does a car use relays for its headlights?", "word": "relay", "sense": "electrical relays and relay races"}
+{"id": "words:trigger:0", "prompt": "How do I create a trigger in PostgreSQL that updates a timestamp column?", "word": "trigger", "sense": "database and React/UI triggers"}
+{"id": "words:trigger:1", "prompt": "What is a database trigger and when should I use one?", "word": "trigger", "sense": "database and React/UI triggers"}
+{"id": "words:trigger:2", "prompt": "What is the difference between BEFORE and AFTER triggers in SQL?", "word": "trigger", "sense": "database and React/UI triggers"}
+{"id": "words:trigger:3", "prompt": "How do I trigger a re-render in React?", "word": "trigger", "sense": "database and React/UI triggers"}
+{"id": "words:trigger:4", "prompt": "How do I trigger a GitHub Actions workflow manually?", "word": "trigger", "sense": "database and React/UI triggers"}
+{"id": "words:trigger:5", "prompt": "How do I set up a time-based trigger in Google Apps Script?", "word": "trigger", "sense": "database and React/UI triggers"}
+{"id": "words:replay:0", "prompt": "How does video replay review work in the NFL?", "word": "replay", "sense": "sports video replay"}
+{"id": "words:replay:1", "prompt": "What is VAR in football and how does replay review work?", "word": "replay", "sense": "sports video replay"}
+{"id": "words:replay:2", "prompt": "How does instant replay work in tennis with Hawk-Eye?", "word": "replay", "sense": "sports video replay"}
+{"id": "words:replay:3", "prompt": "When can an NBA referee use instant replay?", "word": "replay", "sense": "sports video replay"}
+{"id": "words:replay:4", "prompt": "How did instant replay change baseball umpiring?", "word": "replay", "sense": "sports video replay"}
+{"id": "words:replay:5", "prompt": "What is the history of instant replay on television?", "word": "replay", "sense": "sports video replay"}
