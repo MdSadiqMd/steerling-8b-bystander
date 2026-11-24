@@ -1,14 +1,15 @@
-
-https://github.com/user-attachments/assets/e379468a-2031-4aa7-ba6a-e8782f3df2cd
 # Steerling-8B bystander audit
 
 https://github.com/user-attachments/assets/425a803d-4398-4d24-add2-e8e2a57b5376
 
-> When Steerling-8B-Instruct suppresses a concept at inference time, what else changes?
+**When Steerling-8B-Instruct turns a concept down while it writes, what else changes?**
 
-Guide Labs' Steerling-8B can switch concepts off while it generates. This repo switches off
-`18956 Cyberattack tactics and tradecraft` with `SteeringConfig.injection_relu` at the notebook setting (α = −7) and
-measures the side effects. Every change is compared with five controls that suppress a **random** concept the same way.
+Steerling-8B, from Guide Labs, has a dial for many of its concepts that you can turn while it generates. This project
+turns one dial down: concept 18956, *Cyberattack tactics and tradecraft*, at the setting from Guide Labs' notebook
+(`SteeringConfig.injection_relu`, α = −7). Then it measures what else changes.
+
+Some side effects could come from steering in general rather than from this concept. To separate the two, every
+result is compared with five controls that turn a **random** concept down in exactly the same way.
 
 ## Answer
 
